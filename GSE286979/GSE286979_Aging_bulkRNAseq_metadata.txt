@@ -1,0 +1,7 @@
+Sample	Group
+Aging_Tfh_1	Aging
+Aging_Tfh_2	Aging
+Aging_Tfh_3	Aging
+Control_Tfh_1	Control
+Control_Tfh_2	Control
+Control_Tfh_3	Control
