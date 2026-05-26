@@ -1,5 +1,13 @@
 # DESeq2 Differential Expression Analysis — Shiny App
 
+![Language](https://img.shields.io/badge/Language-R-276DC3?style=flat-square&logo=r)
+![Framework](https://img.shields.io/badge/Framework-Shiny-blue?style=flat-square)
+![DE Analysis](https://img.shields.io/badge/Analysis-DESeq2-darkgreen?style=flat-square)
+![Bioconductor](https://img.shields.io/badge/Bioconductor-3.20-green?style=flat-square)
+![Live App](https://img.shields.io/badge/Live%20App-shinyapps.io-brightgreen?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+
 A browser-based tool for running DESeq2 differential expression analysis on bulk RNA-seq count data, with interactive visualizations and downloadable outputs.
 
 **Live app:** [https://a-sundaresan.shinyapps.io/BulkRNASeq_downstream_processing_after_quantification/](https://a-sundaresan.shinyapps.io/BulkRNASeq_downstream_processing_after_quantification/)
