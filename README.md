@@ -10,7 +10,7 @@
 
 A browser-based tool for running DESeq2 differential expression analysis on bulk RNA-seq count data, with interactive visualizations and downloadable outputs.
 
-**Live app:** [https://a-sundaresan.shinyapps.io/BulkRNASeq_downstream_processing_after_quantification/](https://a-sundaresan.shinyapps.io/BulkRNASeq_downstream_processing_after_quantification/)
+🚀 **[Try the live app](https://a-sundaresan.shinyapps.io/BulkRNASeq_downstream_processing_after_quantification/)**
 
 ---
 
@@ -39,6 +39,12 @@ A browser-based tool for running DESeq2 differential expression analysis on bulk
 ---
 
 ## Usage
+
+### Live App
+
+Try it directly at **[https://a-sundaresan.shinyapps.io/BulkRNASeq_downstream_processing_after_quantification/](https://a-sundaresan.shinyapps.io/BulkRNASeq_downstream_processing_after_quantification/)** — no installation needed.
+
+### Local
 
 1. Upload your count matrix and metadata files
 2. Select the column in your metadata that defines sample groups
@@ -87,3 +93,18 @@ shiny::runApp("app.R")
 | EnhancedVolcano | Bioconductor |
 | shiny, bslib, shinyjs, shinyWidgets, shinycssloaders | CRAN |
 | ggplot2, dplyr, DT | CRAN |
+
+---
+
+## Related Projects
+
+- [RShinyApps-scAdvisorAI](https://github.com/a-sundaresan/RShinyApps-scAdvisorAI) — AI-powered scRNA-seq QC advisor
+- [AutoAnnotSC](https://github.com/a-sundaresan/AutoAnnotSC) — Agentic scRNA-seq cell type annotation pipeline
+
+---
+
+## Author
+
+**Aishwarya Sundaresan**
+[![Portfolio](https://img.shields.io/badge/Portfolio-a--sundaresan.github.io-black?style=flat-square)](https://a-sundaresan.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aishwarya--sundaresan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aishwarya-sundaresan/)
